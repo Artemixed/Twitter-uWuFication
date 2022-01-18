@@ -5,4 +5,4 @@ co-created with https://github.com/cablegunmaster
 ### Example
 ![example](https://i.imgur.com/GvdliwR.png)
 #
-Also checkout [Discord-UwUFication!](https://github.com/Artemixed/Discord-OwO-RSSfeed)
+Also checkout [Discord-UwUFication!](https://github.com/Artemixed/Discord-uWuFication)
